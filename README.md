@@ -1,5 +1,7 @@
 # Spain: Energy supply and Energy price profile
 
+<img align="right" width="43%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c24908090611c859eef82dde638011d796fead0c/slides%20and%20plots/logo.png">
+
 Authors: Chiara Bigarella, Luca Pessina, Silvia Poletti.
 
 Dataset: Hourly energy demand, generation and weather (Spain, 2015-2018) available [here](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather).
@@ -32,4 +34,4 @@ We also aggregate some features:
 </p>
 
 
-<img align="left" width="43%" src=" ">
+

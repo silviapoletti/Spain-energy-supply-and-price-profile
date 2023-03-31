@@ -121,4 +121,4 @@ To model the different energy sources relationships, we applied the Unbalanced C
 
 Fist, we try to forecast the price for the first six months of 2018, based on 2016 and 2017 weekly data. However, we obtain much better results when focusing on daily data ad performing short-term forecasting.
 
-We consider the following approaches for forecasting: Linear Models, Gradient-Boost Models (GBOOST), Simple Exponential Smoothing (SES) and Holt Smoothing, ARIMA Models.
+We consider the following approaches for forecasting: Linear Models, Gradient-Boost Models (GBOOST), Simple Exponential Smoothing (SES), the Holt variation and ARIMA Models.

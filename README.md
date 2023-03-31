@@ -54,7 +54,7 @@ The price is highly influenced by the amount of energy produced by the different
 </p>
 
 <p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights.png" width="90%">
-    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights2.png" width="60%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights2.png" width="60%">
+    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights.png" width="90%">
 </p>
 

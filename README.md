@@ -115,3 +115,6 @@ To model the different energy sources relationships, we applied the Unbalanced C
 <p align="center">
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-nuclear.png" width="80%">
 </p>
+
+# Price forecasting
+

@@ -49,8 +49,8 @@ The energy supply distribution is as follows:
 
 The price is highly influenced by the amount of energy produced by the different sources. From the radar-plot we can see that, in general, the higher the production of nuclear power the lower the price. The opposite trend holds for the fossil energy supply.
 
-<img align="left" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/9b9f599fa5fe7eb376d1a71731adc9874102b365/slides%20and%20plots/renewable-fossil-price.png">
+<img align="left" width="50%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/9b9f599fa5fe7eb376d1a71731adc9874102b365/slides%20and%20plots/renewable-fossil-price.png">
 
-<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/a752f57dc275d8bad69058a62545541823c95214/slides%20and%20plots/radarplot.png">
+<img align="right" width="50%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/a752f57dc275d8bad69058a62545541823c95214/slides%20and%20plots/radarplot.png">
 
 

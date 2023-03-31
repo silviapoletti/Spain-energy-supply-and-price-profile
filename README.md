@@ -22,7 +22,7 @@ Important disclaimer: Our analysis is based on data, articles and scientific sou
 We deal with hourly data. We aggregated the data using the mean by year, months, weeks and days. For our analysis we'll mostly use weekly or daily data separated by year. As expected, time aggregation lowers the autocorrelation in the data.
 
 <p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/7e5e92a79fc8c5c1ed2d3885c7d48c9fdcd1ed87/slides%20and%20plots/aggregation-autocorrelation.png" width="80%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/7e5e92a79fc8c5c1ed2d3885c7d48c9fdcd1ed87/slides%20and%20plots/aggregation-autocorrelation.png" width="100%">
 </p>
 
 We also aggregate some features:
@@ -71,3 +71,8 @@ The price is highly influenced by the amount of energy produced by the different
 To understand the behavior of energy generation we will consider the following methods: Linear Regression, Generalized Additive Models (GAM) and diffusion-of-innovation models such as the Bass model and the Generalized Bass model with shocks.
 
 For each method we model the residuals as displayed in the diagram on the right.
+
+<br/>
+
+<br/>
+

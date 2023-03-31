@@ -22,8 +22,7 @@ Important disclaimer: Our analysis is based on data, articles and scientific sou
 We deal with hourly data. We aggregated the data using the mean by year, months, weeks and days. For our analysis we'll mostly use weekly or daily data separated by year. As expected, time aggregation lowers the autocorrelation in the data.
 
 <p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/aggregation-autocorrelation.png" width="50%">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/aggregation-autocorrelation2.png" width="50%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/7e5e92a79fc8c5c1ed2d3885c7d48c9fdcd1ed87/slides%20and%20plots/aggregation-autocorrelation.png" width="80%">
 </p>
 
 We also aggregate some features:
@@ -32,9 +31,9 @@ We also aggregate some features:
 - `hydro pumped storage consumption`, `hydro run of river and poundage` and `hydro water reservoir` are aggregated as `hydro`
 - `hydro`, `wind onshore`, `solar` and `other renewable` are aggregated as `renewables`.
 
-#### 🔌Energy supply 
+<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
 
-<img align="right" width="60%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
+#### 🔌Energy supply 
 
 The energy supply distribution is as follows:
 - Fossil: 37%
@@ -50,9 +49,8 @@ The energy supply distribution is as follows:
 
 The price is highly influenced by the amount of energy produced by the different sources. From the radar-plot we can see that, in general, the higher the production of nuclear power the lower the price. The opposite trend holds for the fossil energy supply.
 
-<p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/9b9f599fa5fe7eb376d1a71731adc9874102b365/slides%20and%20plots/renewable-fossil-price.png" width="30%">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/radarplot.png" width="30%">
-</p>
+<img align="left" width="50%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/9b9f599fa5fe7eb376d1a71731adc9874102b365/slides%20and%20plots/renewable-fossil-price.png">
+
+<img align="right" width="50%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/a752f57dc275d8bad69058a62545541823c95214/slides%20and%20plots/radarplot.png">
 
 

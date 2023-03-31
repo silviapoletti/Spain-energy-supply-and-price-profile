@@ -47,6 +47,8 @@ The energy supply distribution is as follows:
   - Other renewables: 1%
 - Biomass & waste: 2%
 
+<br/>
+
 ## 💸 Energy price
 
 The price is highly influenced by the amount of energy produced by the different sources. From the radar-plot we can see that, in general, the higher the production of nuclear power the lower the price. The opposite trend holds for the fossil energy supply.
@@ -59,6 +61,8 @@ The price is highly influenced by the amount of energy produced by the different
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights.png" width="90%">
     <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights2.png" width="70%">
 </p>
+
+<br/>
 
 <img align="right" width="40%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/b475965afd9382ace213da4556d535e5b1740c18/slides%20and%20plots/residuals-analysis.png">
 

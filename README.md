@@ -86,14 +86,20 @@ The Generalized Bass model with exponential and mixed shocks captured some inter
 
 Since Spain is moving to green energy production, we want to explore the competitive power of renewables and the potential of biomass in the nation. Moreover, we will explore the convenience of the Spain's nuclear phase-out.
 
+<p align="center">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/renewable-insights.png" width="50%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/nuclear-debate.png" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/biomass-insights.png" >
+</p>
+
 To model the different energy sources relationships, we applied the Unbalanced Competition and Regime Change Diachronic model (UCRCD) in its synchronous version, in which we simply don't consider the stand-alone phase of the first series.
 
 ## Is the renewable energy industry competitive?
 
-<p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adb20370611c56962847a4255d224746c0886b87/slides%20and%20plots/renewable-insights.png" width="50%">
-    <https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adb20370611c56962847a4255d224746c0886b87/slides%20and%20plots/fossil-vs-renewables.png" width="50%">
-</p>
+
 
 
 ## What is the biomass potential?

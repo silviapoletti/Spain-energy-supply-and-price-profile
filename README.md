@@ -64,7 +64,7 @@ The price is highly influenced by the amount of energy produced by the different
 
 <br/>
 
-## Statistical methods for modeling the energy supply
+# Statistical methods for modeling the energy supply
 
 <img align="right" width="40%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/b475965afd9382ace213da4556d535e5b1740c18/slides%20and%20plots/residuals-analysis.png">
 
@@ -81,4 +81,8 @@ The Generalized Bass model with exponential and mixed shocks captured some inter
   <br/>
     <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/d32ca3d30b073ae66ed60a57da4140153c675888/slides%20and%20plots/nuclear-series.png" >
 </p>
+
+# Competition and collaboration dynamics between sources of energy
+
+Since Spain is moving to green energy production, we want to explore the competitive power of renewables and the potential of biomass in the nation. Moreover, we will explore the convenience of the Spain's nuclear phase-out.
 

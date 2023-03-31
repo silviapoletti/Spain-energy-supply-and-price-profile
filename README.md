@@ -58,3 +58,11 @@ The price is highly influenced by the amount of energy produced by the different
     <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/f9fc9eb913d1748dbf5f4a2f73497342cabc9163/slides%20and%20plots/price-insights.png" width="90%">
 </p>
 
+## Statistical methods for modeling the enegry supply
+
+<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
+
+To understand the behavior of energy generation we will consider the following methods: Linear Regression, Generalized Additive Models (GAM) and diffusion-of-innovation models such as the Bass model and the Generalized Bass model with shocks.
+
+For each method we model the residuals as displayed in the diagram on the right.
+

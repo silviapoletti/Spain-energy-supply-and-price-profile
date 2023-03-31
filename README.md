@@ -128,7 +128,7 @@ We consider the following approaches for forecasting: Linear Models, Gradient-Bo
 ### Linear Model
 
 <p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adaa7b9582b0268a71836c076edd93e6f47af456/slides%20and%20plots/linear-forecasting.png" width="50%">
-    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adaa7b9582b0268a71836c076edd93e6f47af456/slides%20and%20plots/linear-forecasting-corr.png" width="50%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adaa7b9582b0268a71836c076edd93e6f47af456/slides%20and%20plots/linear-forecasting.png" width="48%">
+    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/adaa7b9582b0268a71836c076edd93e6f47af456/slides%20and%20plots/linear-forecasting-corr.png" width="48%">
 </p>
 

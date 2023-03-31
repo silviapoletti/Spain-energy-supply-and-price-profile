@@ -144,8 +144,8 @@ Fist, we try to forecast the price for the first six months of 2018, based on 20
 ### Gradient Boosting Models
 
 <p align="center">
-  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/52f7bab8556ab4c688a881fb3c2c3768b43fe3b6/slides%20and%20plots/gboost-forecasting.png" width="48%">
-    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/52f7bab8556ab4c688a881fb3c2c3768b43fe3b6/slides%20and%20plots/gboost-forecasting-parial-dependence.png" width="48%">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/0a99246aacdd15450f59e2e30bb3c370bfa97358/slides%20and%20plots/gboost-forecasting.png" width="48%">
+    <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/0a99246aacdd15450f59e2e30bb3c370bfa97358/slides%20and%20plots/gboost-partial-dep.png" width="48%">
 </p>
 
 ### ARIMA Models

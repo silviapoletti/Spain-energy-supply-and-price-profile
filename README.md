@@ -27,7 +27,9 @@ We also aggregate some features:
 - `hydro pumped storage consumption`, `hydro run of river and poundage` and `hydro water reservoir` are aggregated as `hydro`
 - `hydro`, `wind onshore`, `solar` and `other renewable` are aggregated as `renewables`.
 
+#### 🔌Energy supply 
 
+#### 💸 Energy price
 
 <p align="center">
   <img src=" " width="70%">

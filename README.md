@@ -33,9 +33,9 @@ We also aggregate some features:
 
 <br/>
 
-<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
-
 ## 🔌Energy supply 
+
+<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
 
 The energy supply distribution is as follows:
 - Fossil: 37%

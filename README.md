@@ -119,7 +119,7 @@ To model the different energy sources relationships, we applied the Unbalanced C
 
 # 📈 Price forecasting
 
-<img align="right" width="50%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/5c9d80365d49d751112a3ee2016fadaaa6f05555/slides%20and%20plots/forecasting-assumptions.png">
+<img align="right" width="45%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/5c9d80365d49d751112a3ee2016fadaaa6f05555/slides%20and%20plots/forecasting-assumptions.png">
 
 Fist, we try to forecast the price for the first six months of 2018, based on 2016 and 2017 weekly data. However, we obtain much better results when focusing on daily data ad performing short-term forecasting. 
 

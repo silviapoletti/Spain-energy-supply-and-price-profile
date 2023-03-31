@@ -72,14 +72,13 @@ To understand the behavior of energy generation we will consider the following m
 
 For each method we model the residuals as displayed in the diagram on the right.
 
-<br/>
-
-<br/>
-
 The Generalized Bass model with exponential and mixed shocks captured some interesting behaviors regarding the generation of biomass and nuclear energy, as described in the following.
+
+<br/>
 
 <p align="center">
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/d32ca3d30b073ae66ed60a57da4140153c675888/slides%20and%20plots/biomass-series.png">
+  <br/>
     <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/d32ca3d30b073ae66ed60a57da4140153c675888/slides%20and%20plots/nuclear-series.png" >
 </p>
 

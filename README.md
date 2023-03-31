@@ -82,7 +82,7 @@ The Generalized Bass model with exponential and mixed shocks captured some inter
     <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/d32ca3d30b073ae66ed60a57da4140153c675888/slides%20and%20plots/nuclear-series.png" >
 </p>
 
-# Competition and collaboration dynamics between sources of energy
+# 🔗 Competition and collaboration dynamics between sources of energy
 
 Since Spain is moving to green energy production, we want to explore the competitive power of renewables and the potential of biomass in the nation. Moreover, we will explore the convenience of the Spain's nuclear phase-out.
 
@@ -97,24 +97,24 @@ Since Spain is moving to green energy production, we want to explore the competi
 
 To model the different energy sources relationships, we applied the Unbalanced Competition and Regime Change Diachronic model (UCRCD) in its synchronous version, in which we simply don't consider the stand-alone phase of the first series.
 
-## Is the renewable energy industry competitive?
+## ☀️ Is the renewable energy industry competitive?
 
 <p align="center">
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-renewables.png" width="80%">
 </p>
 
 
-## What is the biomass potential?
+## 🌱 What is the biomass potential?
 
 <p align="center">
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-biomass.png" width="80%">
 </p>
 
-## Is the nuclear phase-out convenient?
+## ☢️ Is the nuclear phase-out convenient?
 
 <p align="center">
   <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-nuclear.png" width="80%">
 </p>
 
-# Price forecasting
+# 📈 Price forecasting
 

@@ -99,9 +99,19 @@ To model the different energy sources relationships, we applied the Unbalanced C
 
 ## Is the renewable energy industry competitive?
 
-
+<p align="center">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-renewables.png" width="80%">
+</p>
 
 
 ## What is the biomass potential?
 
+<p align="center">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-biomass.png" width="80%">
+</p>
+
 ## Is the nuclear phase-out convenient?
+
+<p align="center">
+  <img src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/fd9fcda349658eaab6dd0663e7a5cf3526528b9d/slides%20and%20plots/fossil-vs-nuclear.png" width="80%">
+</p>

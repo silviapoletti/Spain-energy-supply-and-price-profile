@@ -119,6 +119,8 @@ To model the different energy sources relationships, we applied the Unbalanced C
 
 # 📈 Price forecasting
 
-Fist, we try to forecast the price for the first six months of 2018, based on 2016 and 2017 weekly data. However, we obtain much better results when focusing on daily data ad performing short-term forecasting.
+<img align="right" width="40%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/5c9d80365d49d751112a3ee2016fadaaa6f05555/slides%20and%20plots/forecasting-assumptions.png">
+
+Fist, we try to forecast the price for the first six months of 2018, based on 2016 and 2017 weekly data. However, we obtain much better results when focusing on daily data ad performing short-term forecasting. 
 
 We consider the following approaches for forecasting: Linear Models, Gradient-Boost Models (GBOOST), Simple Exponential Smoothing (SES), the Holt variation and ARIMA Models.

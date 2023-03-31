@@ -17,7 +17,7 @@ Notebook outline:
 Important disclaimer: Our analysis is based on data, articles and scientific sources available before 2022.
 
 
-## Data Pre-processing and Exploratory Analysis
+# Data Pre-processing and Exploratory Analysis
 
 We deal with hourly data. We aggregated the data using the mean by year, months, weeks and days. For our analysis we'll mostly use weekly or daily data separated by year. As expected, time aggregation lowers the autocorrelation in the data.
 
@@ -33,7 +33,7 @@ We also aggregate some features:
 
 <img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c20cac3481a9580524dd98289a53ac2faae68e1b/slides%20and%20plots/energy-supply-boxplot.png">
 
-#### 🔌Energy supply 
+## 🔌Energy supply 
 
 The energy supply distribution is as follows:
 - Fossil: 37%
@@ -45,7 +45,7 @@ The energy supply distribution is as follows:
   - Other renewables: 1%
 - Biomass & waste: 2%
 
-#### 💸 Energy price
+## 💸 Energy price
 
 The price is highly influenced by the amount of energy produced by the different sources. From the radar-plot we can see that, in general, the higher the production of nuclear power the lower the price. The opposite trend holds for the fossil energy supply.
 

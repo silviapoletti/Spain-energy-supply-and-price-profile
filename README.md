@@ -86,6 +86,8 @@ The Generalized Bass model with exponential and mixed shocks captured some inter
 
 Since Spain is moving to green energy production, we want to explore the competitive power of renewables and the potential of biomass in the nation. Moreover, we will explore the convenience of the Spain's nuclear phase-out.
 
+To model the different energy sources relationships, we applied the Unbalanced Competition and Regime Change Diachronic model (UCRCD) in its synchronous version, in which we simply don't consider the stand-alone phase of the first series.
+
 ## Is the renewable energy industry competitive?
 
 ## What is the biomass potential?

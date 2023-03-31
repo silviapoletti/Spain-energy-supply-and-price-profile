@@ -51,6 +51,6 @@ The price is highly influenced by the amount of energy produced by the different
 
 <img align="left" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/9b9f599fa5fe7eb376d1a71731adc9874102b365/slides%20and%20plots/renewable-fossil-price.png">
 
-<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/a752f57dc275d8bad69058a62545541823c95214/slides%20and%20plots/radarplot.png.png">
+<img align="right" width="55%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/a752f57dc275d8bad69058a62545541823c95214/slides%20and%20plots/radarplot.png">
 
 

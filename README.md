@@ -1,5 +1,9 @@
 # Spain: Energy supply and Energy price profile
 
+<a target="_blank" href="https://colab.research.google.com/github/silviapoletti/Spain-energy-supply-and-price-profile/blob/24dfcd5a5baad22c617e478c8642761d4f933c97/notebook-business-economic-and-financial-data-case-study.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 <img align="right" width="30%" src="https://github.com/silviapoletti/Spain-energy-supply-and-price-profile/blob/c24908090611c859eef82dde638011d796fead0c/slides%20and%20plots/logo.png">
 
 Authors: Chiara Bigarella, Luca Pessina, Silvia Poletti.

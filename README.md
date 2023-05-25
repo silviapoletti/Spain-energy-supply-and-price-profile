@@ -14,7 +14,7 @@ Notebook outline:
 - Understand the possible competition/collaboration dynamic between sources of energy
 - Energy price forecasting
 
-Important disclaimer: Our analysis is based on data, articles and scientific sources available before 2022.
+Important disclaimer: Our analysis is based on data, articles and scientific sources available before the end of 2022.
 
 
 # Data Pre-processing and Exploratory Analysis
